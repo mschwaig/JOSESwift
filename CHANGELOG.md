@@ -24,6 +24,8 @@ so they can be moved to a respective version upon release.
 
 Add your changes here.
 
+- Add support for EC256 keys that are stored inside the Secure Enclave ([#156](https://github.com/airsidemobile/JOSESwift/pull/156)) via [@mschwaig](https://github.com/mschwaig)
+
 ## [1.8.0] - 2019-03-18
 
 - Adds A128CBCHS256 support ([#147](https://github.com/airsidemobile/JOSESwift/pull/147)) via [@ramunasjurgilas](https://github.com/ramunasjurgilas)
